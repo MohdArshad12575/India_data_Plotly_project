@@ -1,4 +1,4 @@
-
+IPython
 numpy
 pandas
 plotly
