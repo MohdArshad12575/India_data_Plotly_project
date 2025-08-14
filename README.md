@@ -5,6 +5,15 @@ The dataset includes key demographic indicators such as **population**, **sex ra
 
 ---
 
+## 📷 Screenshots
+
+### Dashboard View
+![Image](https://github.com/user-attachments/assets/b03af1cf-501f-4a27-9c7a-be87199d0192)
+
+### State-wise Analysis
+![Image](https://github.com/user-attachments/assets/9e2891ef-755e-40f5-b7e1-329f9481598c)
+
+
 ## 📊 Features
 
 - **Interactive Visualizations**  
@@ -28,17 +37,11 @@ The dataset includes key demographic indicators such as **population**, **sex ra
 - **Plotly Express** – for creating visual charts and graphs  
 - **Pandas** – for data manipulation  
 
----
 
-## 📷 Screenshots
 
-### Dashboard View
-![Dashboard Screenshot](indiaplotlyss.jpg)
 
-### State-wise Analysis
-![State Analysis Screenshot](ss2.jpg)
 
----
+
 
 
 
