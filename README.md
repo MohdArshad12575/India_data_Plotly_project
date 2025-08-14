@@ -1,3 +1,5 @@
+Live link - https://indiadataplotly.streamlit.app
+
 # India Census Data Analysis 
 
 This project is an interactive **Streamlit** web application built with **Plotly Express** for visualizing and analyzing population-related statistics of Indian states.  
